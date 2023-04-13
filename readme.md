@@ -20,7 +20,7 @@ Writing least significant bit at the smallest address
     * It sent with every number
     * Receving machine reads 0xFFFE it needs to translate it.
 
-    
+
 ## Result
 
 > Number 270544960 <br>
